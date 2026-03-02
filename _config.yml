@@ -1,0 +1,6 @@
+title: PoC Test Site
+description: Bug Bounty PoC
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# Local plugins in _plugins/ are auto-loaded
